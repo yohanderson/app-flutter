@@ -5,4 +5,4 @@ desarrollo frontend el objetivo es hacer una app completa funcional, sera una ap
 
 AQUI UNA VISTA PREVIA DE COMO ESTA QUEDANDO 
 
-[![1.png](https://i.postimg.cc/m2xr6Xfr/1.png)](https://postimg.cc/LhTRJVsd)
+[![1.png](https://i.postimg.cc/TPys5ckz/1.png)](https://postimg.cc/yJHjw0Cj)
