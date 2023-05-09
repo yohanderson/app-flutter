@@ -1,16 +1,8 @@
-# merkabah
+# App-flutter
 
-A new Flutter project.
 
-## Getting Started
+desarrollo frontend el objetivo es hacer una app completa funcional, sera una aplicaicon CRIPTO con arquitectura de MICRO-SERVICIOS sus comunicacion sera atravez de api GRPC usando el protocolo de comunicacion HTTP2/TLS en la que implementaremos un backend de RUST, para la blockchain compilaremos SOLANA con ciertos arreglos y esta correra en la relay-chain POLKADOT y como ultimo para la base de datos para la mayoria del contendido se usara SURREAL 
 
-This project is a starting point for a Flutter application.
+AQUI UNA VISTA PREVIA DE COMO ESTA QUEDANDO 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![1.png](https://i.postimg.cc/m2xr6Xfr/1.png)](https://postimg.cc/LhTRJVsd)
