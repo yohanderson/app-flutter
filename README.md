@@ -7,7 +7,7 @@ AQUI UNA VISTA PREVIA DE COMO ESTA QUEDANDO
 
 [![1.png](https://i.postimg.cc/J4xsn5V1/1.png)](https://postimg.cc/VdSfZMkT)
 [![3.png](https://i.postimg.cc/W4hFxFys/3.png)](https://postimg.cc/xkV1zCYZ)
-[![4.png](https://i.postimg.cc/XvzFvc5Z/4.png)](https://postimg.cc/Ff01WSDm)
+[![4.png](https://i.postimg.cc/x8XkTxD8/4.png)](https://postimg.cc/BPGZmCvf)
 [![5.png](https://i.postimg.cc/zByCwPNS/5.png)](https://postimg.cc/2bfLrGVV)
 [![6.png](https://i.postimg.cc/y86SXrXg/6.png)](https://postimg.cc/2VJ6CGtr)
 [![2.png](https://i.postimg.cc/ZYyPCgVJ/2.png)](https://postimg.cc/w3gRrwCr)
