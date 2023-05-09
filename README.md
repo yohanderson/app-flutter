@@ -9,6 +9,6 @@ AQUI UNA VISTA PREVIA DE COMO ESTA QUEDANDO
 [![3.png](https://i.postimg.cc/W4hFxFys/3.png)](https://postimg.cc/xkV1zCYZ)
 [![4.png](https://i.postimg.cc/x8XkTxD8/4.png)](https://postimg.cc/BPGZmCvf)
 [![5.png](https://i.postimg.cc/y8G7716m/5.png)](https://postimg.cc/nXqyktDr)
-[![6.png](https://i.postimg.cc/43CNz4CJ/6.png)](https://postimg.cc/fVKNsNTF)
+[![6.png](https://i.postimg.cc/MZjwY2DH/6.png)](https://postimg.cc/3W7zKqzQ)
 [![2.png](https://i.postimg.cc/ZYyPCgVJ/2.png)](https://postimg.cc/w3gRrwCr)
 [![7.png](https://i.postimg.cc/jjsnc3Hn/7.png)](https://postimg.cc/68mQ501B)
