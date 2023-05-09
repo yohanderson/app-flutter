@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "786402218730",
+    "project_id": "merkabah-c00bd",
+    "storage_bucket": "merkabah-c00bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786402218730:android:9daf006f347049bea47d93",
+        "android_client_info": {
+          "package_name": "com.example.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786402218730-rdeous93jepai47nr7ff8bfte3vqiha0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXls3bTzabOIktKqyWbYe-4ij2jlaaQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786402218730-rdeous93jepai47nr7ff8bfte3vqiha0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786402218730-3tf4j3frlbm28vhgqe2v63ruqt1v6ho6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merkabah.merkabah"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786402218730:android:705bb6497fa534f7a47d93",
+        "android_client_info": {
+          "package_name": "com.merkabah.merkabah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786402218730-m7n6j4bbumg9dkin22fhe9kgh7h41uii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merkabah.merkabah",
+            "certificate_hash": "0ed77f26f8f204c1e8a92631e88338efe084e533"
+          }
+        },
+        {
+          "client_id": "786402218730-rdeous93jepai47nr7ff8bfte3vqiha0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXls3bTzabOIktKqyWbYe-4ij2jlaaQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786402218730-rdeous93jepai47nr7ff8bfte3vqiha0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786402218730-3tf4j3frlbm28vhgqe2v63ruqt1v6ho6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merkabah.merkabah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
